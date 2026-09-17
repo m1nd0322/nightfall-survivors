@@ -1,0 +1,29 @@
+{
+  "id": "./",
+  "name": "NIGHTFALL · 황혼의 생존자",
+  "short_name": "NIGHTFALL",
+  "description": "3명의 캐릭터, 10개 스테이지와 공중 전투가 있는 횡스크롤 생존 게임",
+  "lang": "ko",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0a0d18",
+  "theme_color": "#0a0d18",
+  "categories": [
+    "games"
+  ],
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
