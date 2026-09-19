@@ -2,7 +2,7 @@
   "id": "./",
   "name": "NIGHTFALL · 황혼의 생존자",
   "short_name": "NIGHTFALL",
-  "description": "3명의 캐릭터, 10개 스테이지와 공중 전투가 있는 횡스크롤 생존 게임",
+  "description": "7명의 캐릭터, 실제 전투 시간 해금, 10개 스테이지와 공중 전투가 있는 횡스크롤 생존 게임",
   "lang": "ko",
   "start_url": "./index.html",
   "scope": "./",
